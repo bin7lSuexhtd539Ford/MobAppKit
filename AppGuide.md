@@ -2,3 +2,4 @@ MobAppKitOverview
 AppFeatures
 MobileComponents
 DependenciesList
+CodeExamples
