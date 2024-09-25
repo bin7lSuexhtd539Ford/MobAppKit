@@ -2,3 +2,4 @@ FeatureDetails
 SetupInstructions
 FeatureImplementation
 FeatureWorkflow
+ConfigSettings
