@@ -3,3 +3,4 @@ SetupInstructions
 FeatureImplementation
 FeatureWorkflow
 ConfigSettings
+CommunityRules
