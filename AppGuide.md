@@ -4,3 +4,4 @@ MobileComponents
 DependenciesList
 CodeExamples
 ContributionGuide
+ErrorHandling
