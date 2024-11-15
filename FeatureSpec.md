@@ -4,3 +4,4 @@ FeatureImplementation
 FeatureWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails
