@@ -5,3 +5,4 @@ FeatureWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+MobileFAQ
