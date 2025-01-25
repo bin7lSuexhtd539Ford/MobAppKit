@@ -7,3 +7,4 @@ CommunityRules
 LicenseDetails
 MobileFAQ
 FeatureUpdates
+FeatureOptimization
