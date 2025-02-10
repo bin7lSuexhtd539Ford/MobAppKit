@@ -8,3 +8,4 @@ LicenseDetails
 MobileFAQ
 FeatureUpdates
 FeatureOptimization
+CommunityResources
